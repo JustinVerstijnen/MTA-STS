@@ -10,5 +10,4 @@ mx: justinverstijnen.mail.protection.outlook.com
 mx: justinverstijnen-tech.u-v1.mx.microsoft
 mx: jvapp-nl.m-v1.mx.microsoft
 mx: smartpc-nl01c.r-v1.mx.microsoft
-mx: jemoeder-nl.nl
 max_age: 1209600
